@@ -1,0 +1,7 @@
+*~
+.depsolver_plt
+.eunit/
+.rebar/
+deps/
+ebin/
+doc/
